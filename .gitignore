@@ -1,0 +1,27 @@
+# Compiled binaries and object files
+*.exe
+*.dll
+*.so
+*.dylib
+*.o
+*.a
+
+# Testing files 
+*.test
+*.out
+
+# Go Module Caches and Vendor folder 
+/vendor
+/pkg
+
+# Executable binary file created by 'go build'
+project-1-fault-tolerant-airline-reservation-and-notification-system
+
+# Environment variables
+.env 
+.env.local
+
+# Editor/DS specific files
+.vscode/
+.DS_Store
+*~
